@@ -1,4 +1,4 @@
-module goa.design/goa/v3
+module github.com/awltux/goa
 
 go 1.12
 
